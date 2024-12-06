@@ -9,7 +9,7 @@ Projeto proposto no curso de Desenvolvedor Front-End da EBAC
 
 ## 💻 Resultado
 
-Acesse o site pronto neste link [aqui](https://one-page-profissional.vercel.app/)!
+Acesse o site pronto neste link [aqui](https://ebac-form.vercel.app/)!
 
 
 ![formvalidacao](https://github.com/user-attachments/assets/3b9cb211-eda8-4e34-b5d1-bbabff3283b4)
